@@ -6,3 +6,5 @@
 ##### Fantasy football is a fantasy football game, consisting in organizing and managing virtual teams made up of real players, chosen from those who play the tournament to which the game refers (for example Serie A, UEFA Champions League, World Cup, European). But is it easy to always find the players to put on or the right line-up to create at any time?
 ###                                                        :open_file_folder:CONTENUTI:open_file_folder:
 ###                                                        :open_file_folder:CONTENTS:open_file_folder:
+###                                                           :key:CONFIGURAZIONE DEL PROGETTO:key:
+###                                                           :key:PROJECT CONFIGURATION:key:
