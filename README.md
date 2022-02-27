@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![Cam Scanner Pdf 02-27-2022 at 17 25](https://user-images.githubusercontent.com/CamScanner 02-27-2022 17.25.pdf)
+![Cam Scanner Pdf 02-27-2022 at 17 25](https://web.whatsapp.com/27b39e73-de93-462a-bf13-d71581e808e5)
 
 
   
