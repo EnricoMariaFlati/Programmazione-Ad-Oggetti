@@ -8,3 +8,5 @@
 ###                                                        :open_file_folder:CONTENTS:open_file_folder:
 ###                                                           :key:CONFIGURAZIONE DEL PROGETTO:key:
 ###                                                           :key:PROJECT CONFIGURATION:key:
+###                                                           :open_book:DOCUMENTAZIONE:open_book:
+###                                                           :open_book:DOCUMENTATION:open_book:
