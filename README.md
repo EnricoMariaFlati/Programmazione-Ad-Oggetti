@@ -1,7 +1,7 @@
 <div align="center">
 
 
-!(https://mail.google.com/mail/u/0/?ogbl#inbox/FMfcgzGmvBwZJNnQNnpmZMxjvxjnZpMM?projector=1) 
+![alt Immagine Logo](https://mail.google.com/mail/u/0/?ogbl#inbox/FMfcgzGmvBwZJNnQNnpmZMxjvxjnZpMM?projector=1) 
 
 
   
