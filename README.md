@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![WhatsApp Image 2021-12-23 at 15 34 39-2](https://user-images.githubusercontent.com/web.whatsapp.com/)
+![](https://user-images.githubusercontent.com/web.whatsapp.com/)
 
 
   
