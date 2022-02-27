@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![WhatsApp Image 2022-02-27 at 15 25 39-2](IMG-6634.jpg)
+![alt text](http://url/to/img.png) (IMG-6634.jpg)
 
 
   
