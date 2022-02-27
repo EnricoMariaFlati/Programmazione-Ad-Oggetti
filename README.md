@@ -31,7 +31,7 @@ Each inserted player has its own deployability index ranging from 0 to 99. This 
 
 ###                                                        CONTENUTI PROGETTO:open_file_folder::it:
 - [CONFIGURAZIONE](#configurazione-key-it)
-- [AUTORI](#autori-del-progetto-it-student)
+- [AUTORI](#autori-del-progetto-itstudent)
 
 
 
@@ -107,7 +107,7 @@ a
 
 
 
-###                                                         AUTORI DEL PROGETTO:it::student:
+###                                                         AUTORI DEL PROGETTO :it::student:
 Nome | Contributo
 -- | :--:
 [Flati Enrico Maria](https://github.com/EnricoMariaFLati) | File Readme,
