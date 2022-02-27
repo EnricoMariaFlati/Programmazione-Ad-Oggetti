@@ -11,6 +11,6 @@
 ###                                                           :open_book:DOCUMENTAZIONE:open_book:
 ###                                                           :open_book:DOCUMENTATION:open_book:
 ###                                                         AUTORI DEL PROGETTO:it::student:
-##### Nome | Contributo
+Nome | Contributo
 -- | :--:
 [Flati Enrico Maria](https://github.com/EnricoMariaFLati) | File Readme,
