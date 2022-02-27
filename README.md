@@ -2,6 +2,9 @@
 
 # Progetto-Programmazione-Ad-Oggetti
 ##                                                               ASSISTENTE FANTACALCIO
+
+</div>
+
 ###                                                         :it:DESCRIZIONE DEL PROGETTO:it:
 ##### Il fantacalcio è un gioco fantasport sul calcio, consistente nell'organizzare e gestire squadre virtuali formate da calciatori reali, scelti fra quelli che   giocano il torneo cui il gioco si riferisce (ad esempio Serie A, UEFA Champions League, Mondiale, Europeo). Ma è semplice trovare sempre i giocatori da mettere o la formazione giusta da creare in qualsiasi momento?
 ###                                                       :england:DESCRIPTION OF THE PROJECT:england:
