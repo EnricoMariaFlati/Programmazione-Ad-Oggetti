@@ -1,6 +1,6 @@
 <div align="center">
 
-
+![CamScanner.02-27-2022.17.25.pdf](https://github.com/EnricoMariaFlati/Programmazione-Ad-Oggetti/files/8149107/CamScanner.02-27-2022.17.25.pdf)
 
 # Progetto-Programmazione-Ad-Oggetti
 ##                                                              ASSISTENTE FANTACALCIO
