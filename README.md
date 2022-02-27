@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![WhatsApp Image 2022-02-27 at 15 25 39-2](https://user-images.githubusercontent.com/IMG-6634.jpg)
+![WhatsApp Image 2022-02-27 at 15 25 39-2](IMG-6634.jpg)
 
 
   
