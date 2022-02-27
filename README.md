@@ -31,7 +31,7 @@ Each inserted player has its own deployability index ranging from 0 to 99. This 
 
 ###                                                        CONTENUTI PROGETTO:open_file_folder::it:
 - [CONFIGURAZIONE](#configurazione-key-it)
-- [AUTORI](#autori-it-student)
+- [AUTORI](#autori-del-progetto-it-student)
 
 
 
