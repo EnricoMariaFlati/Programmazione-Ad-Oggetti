@@ -29,7 +29,7 @@ C) Insert the players and then ask the assistant if they are good or change them
 Each inserted player has its own deployability index ranging from 0 to 99. This index previously reported is based on an algorithm (yet to be defined) that depends on the player's role (if compared to the assistant a defender with a phantom average of 7, in the last 5 days, and a midfielder with the same average, it is obvious that the assistant will advise you to put the defender) .Obviously he will not only see the vote but also for example if he has not played since start or if he played with less strong teams. All these data will be taken from [Fantasy Football Statistics](https://www.fantacalcio.it/statistiche-serie-a).
 
 
-###                                                        CONTENUTI:open_file_folder::it:
+###                                                        CONTENUTI PROGETTO:open_file_folder::it:
 - [Configurazione](#configurazione-key-it)
 
 - [Documentazione](#documentazione-open_book-it)
@@ -41,7 +41,7 @@ Each inserted player has its own deployability index ranging from 0 to 99. This 
 
 
 
-###                                                        CONTENTS:open_file_folder::england:
+
 ###                                                        CONFIGURAZIONE DEL PROGETTO:key::it:
 ###                                                        PROJECT CONFIGURATION:key::england:
 ###                                                        DOCUMENTAZIONE:open_book::it:
