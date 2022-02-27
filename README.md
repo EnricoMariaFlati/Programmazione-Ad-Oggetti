@@ -34,7 +34,7 @@ Each inserted player has its own deployability index ranging from 0 to 99. This 
 
 -[Documentazione](#documentazione-open_book-it)
 
--[Autori](#autoridelprogetto-it-student)
+-[Autori](#autori-del-progetto-it-student)
 
 
 
