@@ -39,74 +39,8 @@ Each inserted player has its own deployability index ranging from 0 to 99. This 
 
 
 ###                                                        CONFIGURAZIONE :key::it:
-a
-a
-a
-a
-a
-a
-a
-a
-a
-###                                                        PROJECT CONFIGURATION:key::england:
-
-
-
-
-
-
-
-
 
 ###                                                        DOCUMENTAZIONE :open_book::it:
-
-
-
-
-
-
-
-
-
-
-
-
-###                                                        DOCUMENTATION:open_book::england:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ###                                                         AUTORI DEL PROGETTO :it::student:
 Nome | Contributo
